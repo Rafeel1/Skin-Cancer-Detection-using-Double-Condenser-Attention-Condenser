@@ -1,6 +1,6 @@
 # DCACNet: Skin Cancer Detection System
 
-🔗 **[Research Paper (PDF)](Skin-Cancer-Detection-using-Double-Condenser-Attention-Condenser/Research Paper.pdf)**  
+🔗 **[Research Paper (PDF)](./Research%20Paper.pdf)**  
 *Note: This research paper is currently **unpublished** and provided for reference purposes only.*
 
 A deep learning system for skin cancer classification using the HAM10000 dataset with a novel Deep Condensed Attention Convolution Network (DCACNet) architecture.
